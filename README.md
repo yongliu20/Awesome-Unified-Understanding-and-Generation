@@ -3,7 +3,7 @@
 This is a repository for organizing papers, codes and other resources related to unified multimodal models.
 
 <p align="center">
-  <img src="assets/unified_model.webp" alt="TAX" style="display: block; margin: 0 auto;" width="480px" />
+  <img src="assets/unified_model.png" alt="TAX" style="display: block; margin: 0 auto;" width="480px" />
 </p>
 
 #### :thinking: What are unified multimodal models?
