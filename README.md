@@ -16,7 +16,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 ### Pure AR
-+ [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975) (Nov. 2024, arXiv)
+  + [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975) (Nov. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07975)
   [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
 
@@ -26,7 +26,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 ### AR + Discrete Diffusion (Masked AR)
-+ [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation](https://arxiv.org/abs/2408.12528) (Aug. 2024, arXiv)
+  + [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation](https://arxiv.org/abs/2408.12528) (Aug. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12528)
   [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
 
@@ -38,11 +38,11 @@ If you have any suggestions, please feel free to open issues or contact us.
 ### AR + Vanilla Diffusion
 
 
-+ [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) (May. 2025, arXiv)
+  + [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14683)
   [![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star)](https://github.com/bytedance-seed/BAGEL)
 
-+ [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://www.arxiv.org/abs/2408.11039) (Aug. 2024, arXiv)
+  + [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://www.arxiv.org/abs/2408.11039) (Aug. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2408.11039)
 
 
@@ -142,6 +142,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 + [MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding](https://arxiv.org/pdf/2410.21747) (Oct. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.21747)
+
 
 + [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](https://arxiv.org/abs/2410.13848) (Oct. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13848)
