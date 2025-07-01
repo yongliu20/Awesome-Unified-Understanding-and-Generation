@@ -16,7 +16,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 
-## Unified Tokenizer
+## 1. Unified Tokenizer
   + [UniTok: A Unified Tokenizer for Visual Generation and Understanding](https://arxiv.org/abs/2502.20321) (Feb. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20321)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
@@ -54,7 +54,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 
-## AR + AR (One Model)
+## 2. AR + AR (One Model)
 
 
 
@@ -107,7 +107,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 
-## AR + AR + Additional Diffusion (Two Model)
+## 3. AR + AR + Additional Diffusion (Two Model)
 
   + [ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](https://arxiv.org/pdf/2504.01934v1) (Apr. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.01934v1)
@@ -154,7 +154,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 
-## AR + Masked AR (One Model)
+## 4. AR + Masked AR (One Model)
 
   + [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2505.14682v1) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.14682v1)
@@ -168,13 +168,13 @@ If you have any suggestions, please feel free to open issues or contact us.
   [![Star](https://github.com/wusize/Harmon.svg?style=social&label=Star)](https://github.com/wusize/Harmon)
 
 
-## AR + Masked AR + Additional Diffusion (Two Model)
+## 5. AR + Masked AR + Additional Diffusion (Two Model)
 
   + [MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling](https://arxiv.org/abs/2410.10798) (Oct. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10798)
 
 
-## AR + Full Attention + Additional Diffusion (Two Model)
+## 6. AR + Full Attention + Additional Diffusion (Two Model)
 
   + [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15564)
@@ -186,7 +186,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 
-## AR + Continuous Diffusion (One Model)
+## 7. AR + Continuous Diffusion (One Model)
 
 
   + [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) (May. 2025, arXiv)
@@ -217,7 +217,7 @@ If you have any suggestions, please feel free to open issues or contact us.
   
 
 
-## Diffusion
+## 8. Diffusion
   + [Mmada: Multimodal large diffusion language models](https://arxiv.org/abs/2505.15809) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.15809)
   [![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star)](https://github.com/Gen-Verse/MMaDA)
@@ -239,7 +239,7 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 
-## Seperate Understanding and Generation Transformers (Two Model)
+## 9. Seperate Understanding and Generation Transformers (Two Model)
   + [OmniGen2: Exploration to Advanced Multimodal Generationn](https://arxiv.org/pdf/2506.18871) (June. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.18871)
   [![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/OmniGen2)
