@@ -109,6 +109,10 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 ## 3. AR + AR + Additional Diffusion (Two Model)
 
+  + [Ovis-U1 Technical Report](https://arxiv.org/pdf/2506.23044) (June. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.23044)
+  [![Star](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1.svg?style=social&label=Star)](https://github.com/AIDC-AI/Ovis-U1)
+
   + [ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](https://arxiv.org/pdf/2504.01934v1) (Apr. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.01934v1)
   [![Star](https://img.shields.io/github/stars/illume-unified-mllm/ILLUME_plus.svg?style=social&label=Star)](https://github.com/illume-unified-mllm/ILLUME_plus)
