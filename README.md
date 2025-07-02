@@ -17,6 +17,11 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 
 ## 1. Unified Tokenizer
+  
+  + [TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](https://arxiv.org/abs/2505.05422) (May. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05422)
+  [![Star](https://img.shields.io/github/stars/TencentARC/TokLIP.svg?style=social&label=Star)](https://github.com/TencentARC/TokLIP)
+
   + [UniTok: A Unified Tokenizer for Visual Generation and Understanding](https://arxiv.org/abs/2502.20321) (Feb. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20321)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
