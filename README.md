@@ -11,7 +11,7 @@ We have organized the existing works in terms of paradigms. Specifically, some w
 
 If you have any suggestions, please feel free to open issues or contact us.
 
-#### :star: If you find this repo useful, please star it!
+#### :star: If you find this repo useful, please star it.
 
 
 
