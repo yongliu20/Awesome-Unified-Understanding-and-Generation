@@ -61,7 +61,8 @@ If you have any suggestions, please feel free to open issues or contact us.
 
 ## 2. AR + AR (One Model)
 
-
+  + [Ovis2.5 Technical Report](https://arxiv.org/pdf/2508.11737v1) (Aug. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2508.11737v1)
 
   + [UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning](https://arxiv.org/pdf/2503.21193v1) (Mar. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21193v1)
